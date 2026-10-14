@@ -1,0 +1,6 @@
+{
+  "name": "Concept AI",
+  "description": "Intelligent productivity and conceptual task management system powered by AI, designed for students, professionals, and high performers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
